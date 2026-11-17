@@ -5,6 +5,7 @@ Sprite-stack pixel-art fighter jet game, running entirely in the browser.
 **Play:** https://icy-cat.github.io/fighter-jet-eject/
 
 > **Source:** originally built on [UI8 Forge](https://forge.ui8.ai) as a component (`fighter-jet-eject.tsx`, variant `fighterv2`).
+> Original: [remix.ui8.ai/fly](https://remix.ui8.ai/fly) · Announcement: [x.com/creativedash](https://x.com/creativedash/status/2122000830895386680)
 > This repo is a standalone export: the Forge host runtime is replaced with a plain React entry (`src/main.jsx`) and an esbuild + Tailwind build. Game code and sound assets are unchanged from the Forge project.
 
 - Software renderer (Canvas 2D `putImageData`), sprite stacking, CPU post-processing
